@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+numpy
+scenedetect
+scikit-learn
+ultralytics
+scipy
+torch
+torchvision
+matplotlib
+Pillow
